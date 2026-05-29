@@ -1,0 +1,25 @@
+{
+  "outputDirectory": ".",
+  "routes": [
+    {
+      "src": "/cabana-invisivel",
+      "dest": "/cabana-invisivel/index.html"
+    },
+    {
+      "src": "/cabana-invisivel/",
+      "dest": "/cabana-invisivel/index.html"
+    },
+    {
+      "src": "/cabana-we",
+      "dest": "/cabana-we/index.html"
+    },
+    {
+      "src": "/cabana-we/",
+      "dest": "/cabana-we/index.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
