@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+/images/
+
+# Keep the original, heavy gallery exports only as local source files.
+galeriaimagens/**/*.png
